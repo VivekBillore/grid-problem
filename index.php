@@ -1,6 +1,6 @@
 <?php
 
-include_once("gridproblem.html") ;
+include_once("grid problem .html") ;
 
 
 ?>
